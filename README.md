@@ -19,3 +19,5 @@ Sistemas de irrigação inteligente
 Biotecnologia e controle biológico de pragas
 Planejamento baseado em dados e indicadores ambientais
 Compostagem e manejo sustentável do solo
+
+Link: https://1ngridi.github.io/ProjetoAgrinho-Agro-forte-e-sust-vel/
